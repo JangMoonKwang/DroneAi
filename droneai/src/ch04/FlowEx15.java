@@ -1,0 +1,14 @@
+package ch04;
+
+class FlowEx15 {
+    // Your program begins with a call to main()
+    
+    public static void main(String[] args)
+    {
+    	for	(int i=1, j=10; i<=10; i++, j--) {
+    		System.out.printf("%d  \t   %d%n", i, j);
+    	}
+    }   	
+	
+	
+}
